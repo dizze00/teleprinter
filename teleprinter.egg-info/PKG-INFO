@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: teleprinter
+Version: 0.1.0
+Summary: A keyboard input detector.
+Home-page: https://github.com/dizze00/teleprinter
+Author: Dizze00
+License: MIT
+License-File: LICENSE

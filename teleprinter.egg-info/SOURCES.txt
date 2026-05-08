@@ -1,0 +1,7 @@
+LICENSE
+README.rst
+setup.py
+teleprinter.egg-info/PKG-INFO
+teleprinter.egg-info/SOURCES.txt
+teleprinter.egg-info/dependency_links.txt
+teleprinter.egg-info/top_level.txt
